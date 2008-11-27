@@ -4,40 +4,23 @@ Hello everyone,
 
 this is the first round of the new and hopefully improved animation challenge. To make it easier to participate and to improve participation we changed the rules slightly. 
 * For starters we will provide a base file with a rig and all nessecary properties.
-* You may change the cameraposition and the direction of the light if it suites your animation. We discourage you from adding more lights as this will draw away the attention from the animation. 
+* You may change the camera position and the direction of the light if it suites your animation. You may add more lights if you deem it nessecary for your animation but keep in mind this is a animation not a lighting challenge. 
 * You may not add textures or add new meshes. Rememebr this is an animation challenge and not a modelling, material, texture and lighting challenge.
-* You may not change the rig (for now)
+* You may not change the rig (for now) to give everyone the same chance. Again this is an animation challenge and not a rigging challenge. We think Mancandy is well suited for most animation tasks and should give you enough controll for this challenge.
 
-The challenge will last for four weeks followed by one week of voting. After that the winner will be announced. The price for the winner is that he/she gets to choose the new task. Should he refrain from providing a task or the task is not well suited for the animation challenge then we will provide a new task. 
-If he desires he may post a new base file for the animation or improve upon the provided one to suite the needs of the new task. Please keep in mind that all assets for this challenge should be freely available. Unless otherwise stated everyhting is under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License (http://creativecommons.org/licenses/by-nc-sa/3.0/).
+The challenge will last for four weeks followed by one week of voting. After that the winner will be announced. If there are no participants after four weeks the challenge will be closed and a new one will be created. If we have only one participant that participant will automatically win.
+The price for the winner is that he/she gets to choose the new task. Should he refrain from providing a task or the task is not well suited for the animation challenge then we will provide a new task. 
+If he desires he may post a new base file for the animation or improve upon the provided one to suite the needs of the new task. 
 
+Please keep in mind that all assets for this challenge should be freely available to all participants. 
+Unless otherwise stated everyhting is under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License (http://creativecommons.org/licenses/by-nc-sa/3.0/).
 
-
-
---------------------------------
-
-
-You can find ready-to-use characters here (PM me if you'd like to get your rig on this list for the next round):
-- BlenderNation Quicklinks
-http://www.blendernation.com/2006/12...gs-everywhere/
-- Direct links to threads/pages
-http://freefactory.org/posts/candy-for-everyone (bassam/slikdigit's Mancandy)
-http://blenderartists.org/forum/showthread?t=63614 (sketchy's Ludwig)
-http://blenderartists.org/forum/showthread.php?t=92780 (Calvin's Sad Bob)
-http://blenderartists.org/forum/showthread.php?t=98640 (Calvin's Hamster)
-http://blenderartists.org/forum/showthread?t=30994 (nozzy's SkinnyGuy)
-http://blenderartists.org/forum/showthread.php?t=79305 (Clean3D's mouse-rig)
-http://blenderartists.org/forum/show...free+character (Woodman5k's Bunny character)
-http://blenderartists.org/forum/showthread.php?t=106275 (FreakyDude's Little-Fella)
-http://blenderartists.org/forum/showthread.php?t=125497  (FreakyDude's MTI_Stickman and MTI_Devilman)
-http://www.alienhelpdesk.com/suzanne.../petunia_robot (macouno's Petunia)
-http://graphicall.org/bbb/index.php (BBB Characters in char folder)
+Mancandy is available at http://freefactory.org/posts/mancandy-248-rc1 
 
 If you need server space to post animations, try these hosts:
-http://uploader.polorix.net/
 http://www.vimeo.com/
+http://www.youtube.com/
 https://upload.video.google.com/
 http://www.ourmedia.org/
 http://www.archive.org/movies/opensource_movies.php
 http://gallery.mudpuddle.co.nz/
-

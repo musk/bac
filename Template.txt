@@ -1,22 +1,18 @@
-Animation Challenge #53 Entries OPEN
+Blender Animation Challenge #1 Entries OPEN
+
+Hello everyone,
+
+this is the first round of the new and hopefully improved animation challenge. To make it easier to participate and to improve participation we changed the rules slightly. 
+* For starters we will provide a base file with a rig and all nessecary properties.
+* You may change the cameraposition and the direction of the light if it suites your animation. We discourage you from adding more lights as this will draw away the attention from the animation. 
+* You may not add textures or add new meshes. Rememebr this is an animation challenge and not a modelling, material, texture and lighting challenge.
+* You may not change the rig (for now)
+
+The challenge will last for four weeks followed by one week of voting. After that the winner will be announced. The price for the winner is that he/she gets to choose the new task. Should he refrain from providing a task or the task is not well suited for the animation challenge then we will provide a new task. 
+If he desires he may post a new base file for the animation or improve upon the provided one to suite the needs of the new task. Please keep in mind that all assets for this challenge should be freely available. Unless otherwise stated everyhting is under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License (http://creativecommons.org/licenses/by-nc-sa/3.0/).
 
 
 
-
-
-Hi all,
-
-I'm going to host this round of the animation challenge instead of Aligorith. 
-Congratulation to last rounds winner padfoot7726. Although bittersweet, he was the only one to send in a complete entry, it was well deservered.
-This rounds theme is: [b]The Big Top (the circus)[/b]
-
-Entries will close in 3 weeks (7th July at 6pm or 18:00 GMT), at which point we'll vote for a week.
-Remember to use your time wisely, and keep it simple (longer entries will take longer to make).
-
-Hope to see more entries this time. 
-Good luck to you all and happy blending
-
-Musk
 
 --------------------------------
 

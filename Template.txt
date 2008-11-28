@@ -9,6 +9,8 @@ Lift the sphere and have fun with it. You are free to do this anyway you want.
 You may make it heavy or really light just make sure you let us feel the weight.
 Be creative!
 
+Your animation should be around 10 seconds but you can make it as long as you want. Keep in mind that you only have 4 weeks. 
+
 The base file
 >> the file <<
 Unfortunatly the file was slightly too large for this forum so I had to zip it. In order to open the file rename it by removing the ".blend" and then unzip the zip file. (If your zip programm allows it you can unzip the file directly.)
@@ -17,6 +19,8 @@ To make it easier to participate and to improve participation we changed the rul
 * All entries must be made with Blender.
 * For starters we will provide a base file (Blender 2.48) with a rig and all nessecary properties.
 * You may change the camera position and the direction of the light if it suites your animation. You may add more lights if you deem it nessecary for your animation but keep in mind this is a animation not a lighting challenge.
+* You may animate the scene as you see fit this includes all assets.
+* You may do as many shots as you need but keep in mind that every shot you add will mean more work and will take longer to animate.
 * You may not add textures or add new meshes. Rememebr this is an animation challenge and not a modelling, material, texture and lighting challenge.
 * You may not change the rig (for now) to give everyone the same chance. Again this is an animation challenge and not a rigging challenge. We think Mancandy is well suited for most animation tasks and should give you enough controll for this challenge.
 

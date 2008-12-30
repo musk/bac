@@ -2,31 +2,39 @@ Blender Animation Challenge #1 Entries OPEN
 
 Hello everyone,
 
-this is the first round of the new and hopefully improved animation challenge.
+this is round #2 of the blender animation challenge.
 
 The Task is:
-Lift the sphere and have fun with it. You are free to do this anyway you want.
-You may make it heavy or really light just make sure you let us feel the weight.
+>> The Task <<
 Be creative!
 
-Your animation should be around 10 seconds but you can make it as long as you want. Keep in mind that you only have 4 weeks. 
+The duration of the animation should be at least 10 seconds and may be as long as you want. Keep in mind that you only have 4 weeks. 
 
 The base file
 >> the file <<
 Unfortunatly the file was slightly too large for this forum so I had to zip it. In order to open the file rename it by removing the ".blend" and then unzip the zip file. (If your zip programm allows it you can unzip the file directly.)
 
 To make it easier to participate and to improve participation we changed the rules slightly.
-* All entries must be made with Blender.
+* All entries must be made with Blender. 
 * For starters we will provide a base file (Blender 2.48) with a rig and all nessecary properties.
 * You may change the camera position and the direction of the light if it suites your animation. You may add more lights if you deem it nessecary for your animation but keep in mind this is a animation not a lighting challenge.
+* You may change the size of any of the assets including the main character. 
 * You may animate the scene as you see fit this includes all assets.
+* You may duplicate any of the assets if it fits your animation. But you should not create a new scenery.
 * You may do as many shots as you need but keep in mind that every shot you add will mean more work and will take longer to animate.
-* You may not add textures or add new meshes. Rememebr this is an animation challenge and not a modelling, material, texture and lighting challenge.
-* You may not change the rig (for now) to give everyone the same chance. Again this is an animation challenge and not a rigging challenge. We think Mancandy is well suited for most animation tasks and should give you enough controll for this challenge.
+* You may not add textures or add new meshes except for duplicating existing once. Rememebr this is an animation challenge and not a modelling, material, texture and lighting challenge.
+* You may not change the rig. Changes are allowed if the rig is broken or doesn't work as expected. If you do change the rig you are required to inform the community by posting your changes or informing the hoster of the contest. This is to give everyone the same chance. 
+Again this is an animation challenge and not a rigging challenge. We think Mancandy is well suited for most animation tasks and should give you enough controll for this challenge.
+* You are allowed to rig the assets to support your animation.
+* All entrants are encouraged to open a WIP (work in progress) thread in the animation subforum. A WIP thread is not a requirement but it helps to structure once work and improve it. It further helps the community to learn about the process of animation. Above all this contest is ment as a learning experience.  
 
-The challenge will last for four weeks followed by one week of voting. After that the winner will be announced. If there are no participants after four weeks the challenge will be closed and a new one will be created. If we have only one participant that participant will automatically win.
+The challenge will last for four weeks followed by one week of voting. Give two to three days for opening the voting thread. 
+Due to new regulations on this forum people with a low post count are not allowed to post links without moderator approval. If you are in danger of not making the deadline due to this restriction please send a private message with the link to your animation to the hoster of the contest.
+
+When the voting is finished all votes will be counted and the winner will be announced. If there are no participants after four weeks the challenge will be closed and a new one will be created. If we have only one participant that participant will automatically win.
+If there is a tie after the voting is finished the final entry which was posted first wins. The timestamp of the editing dates will be taken into account. 
 The winner gets to choose the new task. Should he refrain from providing a task or the task is not well suited for the animation challenge then we will provide a new task.
-If he desires he may post a new base file for the animation or improve upon the provided one to suite the needs of the new task. Please send a copy of your compressed (activate File -> Compress File in Blender) base file to mailtolanger (@) googlemail (.) com.
+If he desires he may provide a new base file for the animation or improve upon the provided one to suite the needs of the new task. Please send a copy of your compressed (activate File -> Compress File in Blender) base file to mailtolanger (@) googlemail (.) com. Please tag the subject line with [BAC] to make it easier to distinguish.
 
 Please keep in mind that all assets for this challenge should be freely available to all participants.
 Unless otherwise stated everyhting is under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License (http://creativecommons.org/licenses/by-nc-sa/3.0/).

@@ -41,12 +41,14 @@ Unless otherwise stated everyhting is under a Creative Commons Attribution-Nonco
 
 Mancandy is available at http://freefactory.org/posts/mancandy-248-rc1 and is in the public domain.
 
-If you need server space to post animations, try these hosts:
+If you need server space to post animations, try one of these hosts:
 http://www.vimeo.com/
 http://www.youtube.com/
 https://upload.video.google.com/
 http://www.ourmedia.org/
 http://www.archive.org/movies/opensource_movies.php
 http://gallery.mudpuddle.co.nz/
+
+It is a good idea to post your animation at least to one of the big vidoe hosting sites as some voters have reported problems with privatly hosted videos. You may post your video to more then one site.
 
 Best of Luck to everyone and Happy Blending!

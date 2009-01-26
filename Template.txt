@@ -11,8 +11,8 @@ You can either
     - fail to jump it and fall
     - run through it
     - show the whole thing in slow motion
-Do as you wish as long as you are doing a hurdle race.
 Be creative!
+This time around we proved two rigs. You may animate both or choose one of the two to animate. 
 
 The duration of the animation should be at least 10 seconds and may be as long as you want. Keep in mind that you only have 4 weeks. 
 
@@ -36,6 +36,7 @@ To make it easier to participate and to improve participation we changed the rul
 * You may change the size and refine the shape of any of the assets including the main character. If you do a lot of changes we ask you kindly to post your changes to this forum so others can profit from them.  
 * You may animate the scene as you see fit this includes all assets.
 * You may duplicate any of the assets if it fits your animation.
+* You may remove any unneeded assets or characters.
 * You may do as many shots as you need but keep in mind that every shot you add will mean more work and will take longer to animate.
 * You may not add textures or add new meshes except for duplicating existing once. Rememebr this is an animation challenge and not a modelling, material, texture and lighting challenge.
 * You should not change the rigs. Changes are allowed if the rig is broken or doesn't work as expected. If you do change the rig you are required to inform the community by posting your changes or informing the hoster of the contest. This is to give everyone the same chance and let others learn from your improvements.  

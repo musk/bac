@@ -1,31 +1,46 @@
-Blender Animation Challenge #1 Entries OPEN
+Blender Animation Challenge #2 Entries OPEN
 
 Hello everyone,
 
 this is round #2 of the blender animation challenge.
 
 The Task is:
->> The Task <<
+A moment in a hurdle race
+You can either
+    - jump the hurdle
+    - fail to jump it and fall
+    - run through it
+    - show the whole thing in slow motion
+Do as you wish as long as you are doing a hurdle race.
 Be creative!
 
 The duration of the animation should be at least 10 seconds and may be as long as you want. Keep in mind that you only have 4 weeks. 
 
-The base file
->> the file <<
-Unfortunatly the file was slightly too large for this forum so I had to zip it. In order to open the file rename it by removing the ".blend" and then unzip the zip file. (If your zip programm allows it you can unzip the file directly.)
+The base files:
+Since we had some problems with the size of the base files I decided to break them down. 
+The base scene is made up of three files:
+    bac2_base.blend -- This is the base scene that brings in all libraries
+    lib/mancandy.blend -- This is the blend file containing the mancandy rig
+    lib/maxinblender.blend -- This is the blend file containing the maxinblender rig
 
+Simply download all the files and put them in any place making sure that the rigs are in a lib subfolder that is stored in the same place the bac2_base.blend is located.
+Example: download the files into c:\MyBlendFiles then the directory tree should look as follows
+    c:\MyBlendFiles\bac2_base.blend
+    c:\MyBlendFiles\lib\mancandy.blend
+    c:\MyBlendFiles\lib\maxinblender.blend
+    
 To make it easier to participate and to improve participation we changed the rules slightly.
 * All entries must be made with Blender. 
-* For starters we will provide a base file (Blender 2.48) with a rig and all nessecary properties.
-* You may change the camera position and the direction of the light if it suites your animation. You may add more lights if you deem it nessecary for your animation but keep in mind this is a animation not a lighting challenge.
-* You may change the size of any of the assets including the main character. 
+* we provide a base file (Blender 2.48) with the rigs and nessecary properties.
+* You may change the camera position and the direction of the light if it suites your animation. You may add more lights and cameras if you deem it nessecary for your animation but keep in mind this is a animation not a lighting challenge.
+* You may change the size and refine the shape of any of the assets including the main character. If you do a lot of changes we ask you kindly to post your changes to this forum so others can profit from them.  
 * You may animate the scene as you see fit this includes all assets.
-* You may duplicate any of the assets if it fits your animation. But you should not create a new scenery.
+* You may duplicate any of the assets if it fits your animation.
 * You may do as many shots as you need but keep in mind that every shot you add will mean more work and will take longer to animate.
 * You may not add textures or add new meshes except for duplicating existing once. Rememebr this is an animation challenge and not a modelling, material, texture and lighting challenge.
-* You may not change the rig. Changes are allowed if the rig is broken or doesn't work as expected. If you do change the rig you are required to inform the community by posting your changes or informing the hoster of the contest. This is to give everyone the same chance. 
-Again this is an animation challenge and not a rigging challenge. We think Mancandy is well suited for most animation tasks and should give you enough controll for this challenge.
-* You are allowed to rig the assets to support your animation.
+* You should not change the rigs. Changes are allowed if the rig is broken or doesn't work as expected. If you do change the rig you are required to inform the community by posting your changes or informing the hoster of the contest. This is to give everyone the same chance and let others learn from your improvements.  
+Again this is an animation challenge and not a rigging challenge.
+* You are allowed to rig the assets to support your animation, this includes using lattices or shapkeys to deform them. If you do we kindly ask you to post those changes to the forum.
 * All entrants are encouraged to open a WIP (work in progress) thread in the animation subforum. A WIP thread is not a requirement but it helps to structure once work and improve it. It further helps the community to learn about the process of animation. Above all this contest is ment as a learning experience.  
 
 The challenge will last for four weeks followed by one week of voting. Give two to three days for opening the voting thread. 
@@ -39,7 +54,7 @@ If he desires he may provide a new base file for the animation or improve upon t
 Please keep in mind that all assets for this challenge should be freely available to all participants.
 Unless otherwise stated everyhting is under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License (http://creativecommons.org/licenses/by-nc-sa/3.0/).
 
-Mancandy is available at http://freefactory.org/posts/mancandy-248-rc1 and is in the public domain.
+Mancandy is available at http://freefactory.org/posts/mancandy-248-rc1 and is in the public domain. Please give credit to Bassam.
 
 If you need server space to post animations, try one of these hosts:
 http://www.vimeo.com/
@@ -49,6 +64,6 @@ http://www.ourmedia.org/
 http://www.archive.org/movies/opensource_movies.php
 http://gallery.mudpuddle.co.nz/
 
-It is a good idea to post your animation at least to one of the big vidoe hosting sites as some voters have reported problems with privatly hosted videos. You may post your video to more then one site.
+It is a good idea to post your animation at least to one of the big vidoe hosting sites as some voters have reported problems with privatly hosted videos. You may post your video to more then one site. All provided links will be posted in the voting thread.
 
 Best of Luck to everyone and Happy Blending!

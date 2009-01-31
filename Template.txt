@@ -1,61 +1,48 @@
 Blender Animation Challenge #2 Entries OPEN
 
-Hello everyone,
+Hello 
 
-this is round #2 of the blender animation challenge.
+and welcome to round #2 of the blender animation challenge.
+Todays task and basefile are provided by kiopaa. 
+
+We thank kiopaa for his work and hope that everyone has fun doing this challenge
 
 The Task is:
-A moment in a hurdle race
-You can either
-    - jump the hurdle
-    - fail to jump it and fall
-    - run through it
-    - show the whole thing in slow motion
+The character need to get to the next platform. 
+You are free to do this anyway you want. This includes letting him fail in a spectacular way :) 
 Be creative!
-This time around we proved two rigs. You may animate both or choose one of the two to animate. 
 
 The duration of the animation should be at least 10 seconds and may be as long as you want. Keep in mind that you only have 4 weeks. 
 
-The base files:
-Since we had some problems with the size of the base files I decided to break them down. 
-The base scene is made up of three files:
-    bac2_base.blend -- This is the base scene that brings in all libraries
-    lib/mancandy.blend -- This is the blend file containing the mancandy rig
-    lib/maxinblender.blend -- This is the blend file containing the maxinblender rig
+The base file:
+<< basefile >>
+The file is provided under the Creative Commons Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/) license. 
 
-Simply download all the files and put them in any place making sure that the rigs are in a lib subfolder that is stored in the same place the bac2_base.blend is located.
-Example: download the files into c:\MyBlendFiles then the directory tree should look as follows
-    c:\MyBlendFiles\bac2_base.blend
-    c:\MyBlendFiles\lib\mancandy.blend
-    c:\MyBlendFiles\lib\maxinblender.blend
-    
 To make it easier to participate and to improve participation we changed the rules slightly.
 * All entries must be made with Blender. 
 * we provide a base file (Blender 2.48) with the rigs and nessecary properties.
 * You may change the camera position and the direction of the light if it suites your animation. You may add more lights and cameras if you deem it nessecary for your animation but keep in mind this is a animation not a lighting challenge.
-* You may change the size and refine the shape of any of the assets including the main character. If you do a lot of changes we ask you kindly to post your changes to this forum so others can profit from them.  
+* You may change the size of any of the assets as well as the main characters. Please do not change the character itself but if you do please keep to the license. 
 * You may animate the scene as you see fit this includes all assets.
 * You may duplicate any of the assets if it fits your animation.
 * You may remove any unneeded assets or characters.
 * You may do as many shots as you need but keep in mind that every shot you add will mean more work and will take longer to animate.
 * You may not add textures or add new meshes except for duplicating existing once. Rememebr this is an animation challenge and not a modelling, material, texture and lighting challenge.
-* You should not change the rigs. Changes are allowed if the rig is broken or doesn't work as expected. If you do change the rig you are required to inform the community by posting your changes or informing the hoster of the contest. This is to give everyone the same chance and let others learn from your improvements.  
+* You should not change the rigs. Changes are allowed if the rig is broken or doesn't work as expected. If you do change the rig you are required to inform the community by posting your changes or informing the hoster of the contest. This is to give everyone the same chance and let others learn from your improvements. Please keep to the provided license!
 Again this is an animation challenge and not a rigging challenge.
-* You are allowed to rig the assets to support your animation, this includes using lattices or shapkeys to deform them. If you do we kindly ask you to post those changes to the forum.
+* You are allowed to rig the assets to support your animation, this includes using lattices or shapkeys to deform them. If you do we kindly ask you to post those changes to the forum. Please keep any licensing issues in mind!
 * All entrants are encouraged to open a WIP (work in progress) thread in the animation subforum. A WIP thread is not a requirement but it helps to structure once work and improve it. It further helps the community to learn about the process of animation. Above all this contest is ment as a learning experience.  
 
 The challenge will last for four weeks followed by one week of voting. Give two to three days for opening the voting thread. 
-Due to new regulations on this forum people with a low post count are not allowed to post links without moderator approval. If you are in danger of not making the deadline due to this restriction please send a private message with the link to your animation to the hoster of the contest.
+Due to new regulations on this forum people with a low post count are not allowed to post links without moderator approval. If you are in danger of not making the deadline due to this restriction please send a private message with the link to your animation to the hoster of the contest (musk).
 
 When the voting is finished all votes will be counted and the winner will be announced. If there are no participants after four weeks the challenge will be closed and a new one will be created. If we have only one participant that participant will automatically win.
 If there is a tie after the voting is finished the final entry which was posted first wins. The timestamp of the editing dates will be taken into account. 
 The winner gets to choose the new task. Should he refrain from providing a task or the task is not well suited for the animation challenge then we will provide a new task.
-If he desires he may provide a new base file for the animation or improve upon the provided one to suite the needs of the new task. Please send a copy of your compressed (activate File -> Compress File in Blender) base file to mailtolanger (@) googlemail (.) com. Please tag the subject line with [BAC] to make it easier to distinguish.
+If he desires he may provide a new base file for the animation or improve upon the provided one to suite the needs of the new task. Please send a copy of your compressed (activate File -> Compress File in Blender) base file to mailtolanger (@) googlemail (.) com. Please put [BAC] in the subject line.
 
 Please keep in mind that all assets for this challenge should be freely available to all participants.
 Unless otherwise stated everyhting is under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License (http://creativecommons.org/licenses/by-nc-sa/3.0/).
-
-Mancandy is available at http://freefactory.org/posts/mancandy-248-rc1 and is in the public domain. Please give credit to Bassam.
 
 If you need server space to post animations, try one of these hosts:
 http://www.vimeo.com/

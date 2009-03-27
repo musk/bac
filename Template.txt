@@ -1,30 +1,33 @@
 Hello
 
-and welcome to round #2 of the blender animation challenge.
-Today's task and base file are provided by <Author>.
+and welcome to round #3 of the blender animation challenge.
+Today's task and base file are provided by Malefico.
+The rig is provided by Kiopaa again. 
 
-Thank you <Author> for your work. I hope that everyone has fun working with the file .
+Thank you Malefico for your work. I hope that everyone has fun working with the file .
 
 The Task is:
-<Task description>
+Play with the slide!
 Be creative!
 
-The duration of the animation should be at least 10 seconds and may be as long as you want. Keep in mind that you only have 4 weeks.
+The duration of the animation should be at least 10 seconds and may be as long as you want. Keep in mind that you only have a limited amount of time to realize it and we all have a private live (hoepfully ;) ).
+
+This contest will end on the 28th of April 2009 (2009-04-29) at 19:00 (7:00 PM) GMT. 
 
 The base file:
-<blend file>
+bac3.blend
 The file is provided under the Creative Commons Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/) license.
 
-To make it easier to participate and to improve participation we changed the rules slightly.
+Here are the new rules for the BAC (Blender Animation Challenge):
 * All entries must be made with Blender.
 * we provide a base file (Blender 2.48) with the rigs and necessary properties.
 * You may change the camera position and the direction of the light if it suites your animation. You may add more lights and cameras if you deem it necessary for your animation but keep in mind this is a animation not a lighting challenge.
-* You may change the size of any of the assets as well as the main characters. Please do not change the character itself but if you do please keep to the license.
+* You may change the size of any of the assets as well as the main characters. Please do not change the character itself unless it deems nessecary for a better animation (e.g. adding loopcuts for better deformations). If you do please keep to the license and post your resulting file back to the forum for others to see.
 * You may animate the scene as you see fit this includes all assets.
 * You may duplicate any of the assets if it fits your animation.
 * You may remove any unneeded assets or characters.
 * You may do as many shots as you need but keep in mind that every shot you add will mean more work and will take longer to animate.
-* You may not add textures or add new meshes except for duplicating existing once. Remember this is an animation challenge and not a modelling, material, texture and lighting challenge.
+* You may not add textures or add new meshes except for duplicating existing once. Remember this is an animation challenge and not a modelling, material, texture and lighting challenge. Should the need arise to have more assets then provided please get in contact with the forum first and let the community decide wether it is ok to add the asset. When the community decides that it is ok provide a new base file with the new asset (blend file containing only the asset is ok) to the forum to make it available to all contestants.  
 * You should not change the rigs. Changes are allowed if the rig is broken or doesn't work as expected. If you do change the rig you are required to inform the community by posting your changes or informing the host of the contest. This is to give everyone the same chance and let others learn from your improvements. Please keep to the provided license!
 Again this is an animation challenge and not a rigging challenge.
 * You are allowed to rig the assets to support your animation, this includes using lattices or shapkeys to deform them. If you do we kindly ask you to post those changes to the forum. Please keep any licensing issues in mind!
@@ -38,7 +41,7 @@ If there is a tie after the voting is finished the final entry which was posted 
 The winner gets to choose the new task. Should he refrain from providing a task or the task is not well suited for the animation challenge then we will provide a new task.
 If he desires he may provide a new base file for the animation or improve upon the provided one to suite the needs of the new task.
 We invite anybody to send a base file plus task which we might use for future BACs.
-Please send a copy of your compressed (activate File -> Compress File in Blender) base file to mailtolanger (@) googlemail (.) com. Please put [BAC] in the subject line.
+Please send a copy of your compressed (activate File -> Compress File in Blender) base file to mailtolanger (@) googlemail (.) com. Please put [BAC] in the subject line to enable filtering.
 
 Please keep in mind that all assets for this challenge should be freely available to all participants.
 Unless otherwise stated everyhting is under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License (http://creativecommons.org/licenses/by-nc-sa/3.0/).
@@ -53,4 +56,6 @@ http://gallery.mudpuddle.co.nz/
 
 It is a good idea to post your animation at least to one of the big vidoe hosting sites as some voters have reported problems with privately hosted videos. You may post your video to more then one site. All provided links will be posted in the voting thread.
 
-Best of Luck to everyone and Happy Blending! 
+Best of Luck to everyone and Happy Blending!
+
+P.S.: All files and texts for this challenge are tracked in a git repository at http://github.com/musk/bac/tree/master. For information about git seehttp://git-scm.com/

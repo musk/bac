@@ -1,21 +1,21 @@
 Hello
 
-and welcome to round #3 of the blender animation challenge.
-Today's task and base file are provided by Malefico.
-The rig is provided by Kiopaa again. 
+and welcome to round #4 of the blender animation challenge.
+Today's task and base file are provided by blenderguy2008.
+The rig is provided by Kiopaa. 
 
-Thank you Malefico for your work. I hope that everyone has fun working with the file .
+Thank you blenderguy2008 for your work. I hope that everyone has fun working with the file.
 
 The Task is:
-Play with the slide!
+Win the race, maybe?
 Be creative!
 
 The duration of the animation should be at least 10 seconds and may be as long as you want. Keep in mind that you only have a limited amount of time to realize it and we all have a private live (hoepfully ;) ).
 
-This contest will end on the 28th of April 2009 (2009-04-29) at 19:00 (7:00 PM) GMT. 
+This contest will end on the 22nd June 2009 (2009-07-22) at 19:00 (7:00 PM) GMT. 
 
 The base file:
-bac3.blend
+bac4.blend
 The file is provided under the Creative Commons Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/) license.
 
 Here are the new rules for the BAC (Blender Animation Challenge):
@@ -31,17 +31,19 @@ Here are the new rules for the BAC (Blender Animation Challenge):
 * You should not change the rigs. Changes are allowed if the rig is broken or doesn't work as expected. If you do change the rig you are required to inform the community by posting your changes or informing the host of the contest. This is to give everyone the same chance and let others learn from your improvements. Please keep to the provided license!
 Again this is an animation challenge and not a rigging challenge.
 * You are allowed to rig the assets to support your animation, this includes using lattices or shapkeys to deform them. If you do we kindly ask you to post those changes to the forum. Please keep any licensing issues in mind!
-* All entrants are encouraged to open a WIP (work in progress) thread in the animation subforum. A WIP thread is not a requirement but it helps to structure once work and improve it. It further helps the community to learn about the process of animation. Above all this contest is ment as a learning experience.
+* All entrants are encouraged to post their progress to the official [BAC WIP (work in progress)] opened in the animation subforum. Or you may open your personal WIP in the animation subforum. Posting to a WIP thread is not a requirement but it helps to structure once work and improve it. It further helps the community to learn about the process of animation. Above all this contest is ment as a learning experience. 
 
-The challenge will last for four weeks followed by one week of voting. Give two to three days for opening the voting thread.
+The challenge will last for four weeks (and a few days) followed by one week of voting. Give two to three days for opening the voting thread.
+To participate simply post your entry to this thread. 
 Due to new regulations on this forum people with a low post count are not allowed to post links without moderator approval. If you are in danger of not making the deadline due to this restriction please send a private message with the link to your animation to the host of the contest (musk).
 
 When the voting is finished all votes will be counted and the winner will be announced. If there are no participants after four weeks the challenge will be closed and a new one will be created. If we have only one participant that participant will automatically win.
 If there is a tie after the voting is finished the final entry which was posted first wins. The timestamp of the editing dates will be taken into account.
 The winner gets to choose the new task. Should he refrain from providing a task or the task is not well suited for the animation challenge then we will provide a new task.
 If he desires he may provide a new base file for the animation or improve upon the provided one to suite the needs of the new task.
-We invite anybody to send a base file plus task which we might use for future BACs.
-Please send a copy of your compressed (activate File -> Compress File in Blender) base file to mailtolanger (@) googlemail (.) com. Please put [BAC] in the subject line to enable filtering.
+We invite anybody to send a base file plus task which we might use for future BACs. Basefiles from the previouse challenges as well as all provided basefiles can be downloaded from the official BAC git repository at http://github.com/musk/bac/tree/master.
+
+Please send a copy of your compressed (activate File -> Compress File in Blender) base file to mailtolanger (@) googlemail (.) com. Please put [BAC] in the subject line to make filtering easier.
 
 Please keep in mind that all assets for this challenge should be freely available to all participants.
 Unless otherwise stated everyhting is under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License (http://creativecommons.org/licenses/by-nc-sa/3.0/).
@@ -57,5 +59,3 @@ http://gallery.mudpuddle.co.nz/
 It is a good idea to post your animation at least to one of the big vidoe hosting sites as some voters have reported problems with privately hosted videos. You may post your video to more then one site. All provided links will be posted in the voting thread.
 
 Best of Luck to everyone and Happy Blending!
-
-P.S.: All files and texts for this challenge are tracked in a git repository at http://github.com/musk/bac/tree/master. For information about git seehttp://git-scm.com/

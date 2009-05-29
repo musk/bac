@@ -2,12 +2,12 @@ Hello
 
 and welcome to round #4 of the blender animation challenge.
 Today's task and base file are provided by blenderguy2008.
-The rig is provided by Kiopaa. 
+The rig (Pantin) is provided by Kiopaa. 
 
 Thank you blenderguy2008 for your work. I hope that everyone has fun working with the file.
 
-The Task is:
-Win the race, maybe?
+The Task is (EDITED):
+Go from Start to Finish in anyway Pantin can handle it... (was Win the race, maybe?)
 Be creative!
 
 The duration of the animation should be at least 10 seconds and may be as long as you want. Keep in mind that you only have a limited amount of time to realize it and we all have a private live (hoepfully ;) ).
@@ -27,7 +27,7 @@ Here are the new rules for the BAC (Blender Animation Challenge):
 * You may duplicate any of the assets if it fits your animation.
 * You may remove any unneeded assets or characters.
 * You may do as many shots as you need but keep in mind that every shot you add will mean more work and will take longer to animate.
-* You may not add textures or add new meshes except for duplicating existing once. Remember this is an animation challenge and not a modelling, material, texture and lighting challenge. Should the need arise to have more assets then provided please get in contact with the forum first and let the community decide wether it is ok to add the asset. When the community decides that it is ok provide a new base file with the new asset (blend file containing only the asset is ok) to the forum to make it available to all contestants.  
+* You may not add textures or add new meshes except for duplicating existing once. Remember this is an animation challenge and not a modelling, material, texture and lighting challenge. Should the need arise to have more assets then provided please get in contact with the forum first and let the community decide wether it is ok to add the asset. When there is no objection from the community within 2-3 days of the announcement we will approve the changes. You will need to provide a new base file with the new asset (blend file containing only the asset is ok) to the forum to make it available to all contestants.  
 * You should not change the rigs. Changes are allowed if the rig is broken or doesn't work as expected. If you do change the rig you are required to inform the community by posting your changes or informing the host of the contest. This is to give everyone the same chance and let others learn from your improvements. Please keep to the provided license!
 Again this is an animation challenge and not a rigging challenge.
 * You are allowed to rig the assets to support your animation, this includes using lattices or shapkeys to deform them. If you do we kindly ask you to post those changes to the forum. Please keep any licensing issues in mind!

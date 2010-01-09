@@ -1,26 +1,26 @@
 Hello
 
-and welcome to round #5 of the blender animation challenge.
-Today's task and base file are provided by wigglyframe.
+and welcome to round #6 of the blender animation challenge.
+Today's task and base file are provided by eversimo.
 The rig (Pantin) is provided by Kiopaa. 
 
-Thank you wigglyframe and Kiopaa for your work. I hope that everyone has fun working with the file.
+Thank you eversimo and Kiopaa for your work. I hope that everyone has fun working with the file.
 
 The Theme is:
-Heaven is a half pipe
+Football Worldcup 2010 The final goal
 Be creative!
 
 The duration of the animation should be at least 10 seconds and may be as long as you want. Keep in mind that you only have a limited amount of time to realize it and we all have a private live (hoepfully ;) ).
 
-This contest will end on the 24. August 2009 (2009-08-23) at 18:00 (6:00 PM) GMT. 
+This contest will end on the 7.2.2010 at 18:00 (6:00 PM) GMT. 
 
 The base file:
-bac5.blend
+bac6.blend
 The file is provided under the Creative Commons Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/) license.
 
 Here are the new rules for the BAC (Blender Animation Challenge):
 * All entries must be made with Blender.
-* we provide a base file (Blender 2.48a or newer) with the rigs and necessary properties.
+* we provide a base file (Blender 2.49 or newer) with the rigs and necessary properties.
 * You may change the camera position and the direction of the light if it suites your animation. You may add more lights and cameras if you deem it necessary for your animation but keep in mind this is a animation not a lighting challenge.
 * You may change the size of any of the assets as well as the main characters. Please do not change the character itself unless it deems nessecary for a better animation (e.g. adding loopcuts for better deformations). If you do please keep to the license and post your resulting file back to the forum for others to see.
 * You may animate the scene as you see fit this includes all assets.
@@ -41,7 +41,7 @@ When the voting is finished all votes will be counted and the winner will be ann
 If there is a tie after the voting is finished the final entry which was posted first wins. The timestamp of the editing dates will be taken into account.
 The winner gets to choose the new task. Should he refrain from providing a task or the task is not well suited for the animation challenge then we will provide a new task.
 If he desires he may provide a new base file for the animation or improve upon the provided one to suite the needs of the new task.
-We invite anybody to send a base file plus task which we might use for future BACs. Basefiles from the previouse challenges as well as all provided basefiles can be downloaded from the official BAC git repository at http://github.com/musk/bac/tree/master.
+We invite anybody to send a base file plus task which we might use for future BACs. Basefiles from the previouse challenges as well as all provided basefiles can be downloaded from the official BAC git repository at http://github.com/musk/bac.
 
 Please send a copy of your compressed (activate File -> Compress File in Blender) base file to mailtolanger (@) googlemail (.) com. Please put [BAC] in the subject line to make filtering easier.
 

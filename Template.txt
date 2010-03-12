@@ -1,22 +1,23 @@
 Hello
 
-and welcome to round #6 of the blender animation challenge.
-Today's task and base file are provided by eversimo.
-The rig (Pantin) is provided by Kiopaa. 
+and welcome to round #7 of the blender animation challenge.
+Today's task and base file are provided by Waylow.
+The rig (Pedro) is provided by Waylow. 
 
-Thank you eversimo and Kiopaa for your work. I hope that everyone has fun working with the file.
+Thank you for your work. I hope that everyone has fun working with the file.
 
 The Theme is:
-Football Worldcup 2010 The final goal
+Playtime
 Be creative!
 
 The duration of the animation should be at least 10 seconds and may be as long as you want. Keep in mind that you only have a limited amount of time to realize it and we all have a private live (hoepfully ;) ).
 
-This contest will end on the 7.2.2010 at 18:00 (6:00 PM) GMT. 
+This contest will end on the 12th of April 2010 at 18:00 (6:00 PM) GMT. 
 
-The base file:
-bac6.blend
-The file is provided under the Creative Commons Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/) license.
+The base files:
+bac7_2.5.2.blend File to be used with Blender 2.5.2
+bac7_2.49b.blend File to be used with Blender 2.49b
+The files are provided under the Creative Commons Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/) license.
 
 Here are the new rules for the BAC (Blender Animation Challenge):
 * All entries must be made with Blender.
@@ -34,7 +35,8 @@ Again this is an animation challenge and not a rigging challenge.
 * All entrants are encouraged to post their progress to the official [BAC WIP (work in progress)] opened in the animation subforum. Or you may open your personal WIP in the animation subforum. Posting to a WIP thread is not a requirement but it helps to structure once work and improve it. It further helps the community to learn about the process of animation. Above all this contest is ment as a learning experience. 
 
 The challenge will last for four weeks (and a few days) followed by one week of voting. Give two to three days for opening the voting thread.
-To participate simply post your entry to this thread. 
+To participate simply post your entry to this thread. Entries are collected in the order they are posted.
+
 Due to new regulations on this forum people with a low post count are not allowed to post links without moderator approval. If you are in danger of not making the deadline due to this restriction please send a private message with the link to your animation to the host of the contest (musk).
 
 When the voting is finished all votes will be counted and the winner will be announced. If there are no participants after four weeks the challenge will be closed and a new one will be created. If we have only one participant that participant will automatically win.
@@ -43,7 +45,7 @@ The winner gets to choose the new task. Should he refrain from providing a task 
 If he desires he may provide a new base file for the animation or improve upon the provided one to suite the needs of the new task.
 We invite anybody to send a base file plus task which we might use for future BACs. Basefiles from the previouse challenges as well as all provided basefiles can be downloaded from the official BAC git repository at http://github.com/musk/bac.
 
-Please send a copy of your compressed (activate File -> Compress File in Blender) base file to mailtolanger (@) googlemail (.) com. Please put [BAC] in the subject line to make filtering easier.
+Please send a copy of your compressed (activate File -> Compress File in Blender) base file to mailtolanger (@) googlemail (.) com. Please put "[BAC]" in the subject line to make filtering easier.
 
 Please keep in mind that all assets for this challenge should be freely available to all participants.
 Unless otherwise stated everyhting is under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License (http://creativecommons.org/licenses/by-nc-sa/3.0/).
@@ -56,6 +58,6 @@ http://www.ourmedia.org/
 http://www.archive.org/movies/opensource_movies.php
 http://gallery.mudpuddle.co.nz/
 
-It is a good idea to post your animation at least to one of the big vidoe hosting sites as some voters have reported problems with privately hosted videos. You may post your video to more then one site. All provided links will be posted in the voting thread.
+It is a good idea to post your animation at least to one of the big video hosting sites as some voters have reported problems with privately hosted videos. You may post your video to more then one site. All provided links will be posted in the voting thread.
 
 Best of Luck to everyone and Happy Blending!

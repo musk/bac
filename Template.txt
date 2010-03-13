@@ -15,7 +15,7 @@ The duration of the animation should be at least 10 seconds and may be as long a
 This contest will end on the 12th of April 2010 at 18:00 (6:00 PM) GMT. 
 
 The base files:
-bac7_Pedro2.5.2.blend File to be used with Blender 2.5.2
+bac7_Pedro2.5.2.blend.gz zipped File to be used with Blender 2.5.2 can be opened with most compression utilities like Winzip, WinRAR or 7-Zip (www.7-zip.org) 
 bac7_Pedro2.49b.blend File to be used with Blender 2.49b
 The files are provided under the Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License (http://creativecommons.org/licenses/by-nc-sa/3.0/).
 

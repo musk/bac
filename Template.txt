@@ -1,34 +1,25 @@
 Hello
 
-and welcome to round #8 of the blender animation challenge.
-Today's task and base files are provided by revolt_randy.
-There are three rigs in the base file feel free to use all or any one of them.
-The rigs are:
-- Pantin from Pedro
-- Max in Blender from Cesio
-- Nathan from FeelGoodComics
+and welcome to round #9 of the blender animation challenge.
+Today's task and base files are provided by kiopaa who won the scene challenge for bac#9.
 
-For Blender 2.49 use BAC8_249.zip  
-For Blender 2.52 use BAC8_252.zip
+http://hostit.warrenberberd.org/dl.php?file=5e60a70d4d52355f0e8bb88f04b5994b
 
-For uncompressing the files you can use compression utilities like Winzip, Winrar or the free 7-Zip available at www.7-zip.org
 The files are provided under the Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License (http://creativecommons.org/licenses/by-nc-sa/3.0/).
 
-Thank you randy for your work. I hope that everyone has fun working with the file.
+Thank you kiopaa for your work. I hope that everyone has fun working with the file.
 
 The Theme is:
-Slam Dunk Contest 
+Make a circle around the bar (called a 'giant' in gymnastic ?)
 Be creative!
-
-If you do not know what a Slam Dunk Contest is take a look at http://www.youtube.com/watch?v=nMWwSM_q9JI
 
 The duration of the animation should be at least 10 seconds and may be as long as you want. Keep in mind that you only have a limited amount of time to realize it and we all have a private live (hoepfully ;) ).
 
-This contest will end on the 5th July 2010 at 18:00 (6:00 PM) GMT. 
+This contest will end on the 17th October 2010 at 18:00 (6:00 PM) GMT. 
 
 Here are the rules for this BAC: 
 * All entries must be made with Blender.
-* we provide a base file for Blender 2.49 and Blender 2.5.2 with the rigs and necessary properties.
+* we provide a base file for Blender 2.5 with the rigs and necessary properties.
 * You may change the camera position and the direction of the light if it suites your animation. You may add more lights and cameras if you deem it necessary for your animation but keep in mind this is a animation not a lighting challenge.
 * You may change the size of any of the assets as well as the main characters. Please do not change the character itself unless it deems nessecary for a better animation (e.g. adding loopcuts for better deformations). If you do please keep to the license and post your resulting file back to the forum for others to see.
 * You may animate the scene as you see fit this includes all assets.

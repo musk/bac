@@ -1,32 +1,39 @@
 Hello
 
-and welcome to round #9 of the blender animation challenge.
-Today's task and base files are provided by kiopaa who won the scene challenge for bac#9.
+and welcome to round #10 of the blender animation challenge.
+Today's task and base files are provided by aljo who won bac#9.
 
-http://hostit.warrenberberd.org/dl.php?file=5e60a70d4d52355f0e8bb88f04b5994b
+http://site.aljosoft.com/blender/bac_10.blend
+
+Attributions for the content:
+Joe_Rig from revolt_randy
+Bik from kiopaa
+Scarelette from waylow
+A basketball from Bac08
+A trampoline by aljo
 
 The files are provided under the Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License (http://creativecommons.org/licenses/by-nc-sa/3.0/).
 
-Thank you kiopaa for your work. I hope that everyone has fun working with the file.
+Thank you aljo for your work. I hope that everyone has fun working with the file.
 
 The Theme is:
-Make a circle around the bar (called a 'giant' in gymnastic ?)
+Jump the trampoline
 Be creative!
 
 The duration of the animation should be at least 10 seconds and may be as long as you want. Keep in mind that you only have a limited amount of time to realize it and we all have a private live (hoepfully ;) ).
 
-This contest will end on the 17th October 2010 at 18:00 (6:00 PM) GMT. 
+This contest will end on the 13th December 2010 at 18:00 (6:00 PM) GMT.  
 
 Here are the rules for this BAC: 
 * All entries must be made with Blender.
 * we provide a base file for Blender 2.5 with the rigs and necessary properties.
 * You may change the camera position and the direction of the light if it suites your animation. You may add more lights and cameras if you deem it necessary for your animation but keep in mind this is a animation not a lighting challenge.
-* You may change the size of any of the assets as well as the main characters. Please do not change the character itself unless it deems nessecary for a better animation (e.g. adding loopcuts for better deformations). If you do please keep to the license and post your resulting file back to the forum for others to see.
+* You may change the size of any of the assets as well as the main characters. Please do not change the character itself unless it is nessecary for a better animation (e.g. adding loopcuts for better deformations). If you do please keep to the license and post your resulting file back to the forum for others to see.
 * You may animate the scene as you see fit this includes all assets.
 * You may duplicate any of the assets if it fits your animation.
 * You may remove any unneeded assets or characters.
 * You may do as many shots as you need but keep in mind that every shot you add will mean more work and will take longer to animate.
-* You may not add textures or add new meshes except for duplicating existing once. Remember this is an animation challenge and not a modelling, material, texture and lighting challenge. Should the need arise to have more assets then provided please get in contact with the forum first and let the community decide wether it is ok to add the asset. When there is no objection from the community within 2-3 days of the announcement we will approve the changes. You will need to provide a new base file with the new asset (blend file containing only the asset is ok) to the forum to make it available to all contestants.  
+* You may not add textures or add new meshes except for duplicating existing once. Remember this is an animation challenge and not a modelling, material, texture and lighting challenge. Should you need more assets then provided please get in contact with the forum first and let the community decide wether it is ok to add the asset. When there is no objection from the community within 2-3 days of the announcement we will approve the changes. You will need to provide a new base file with the new asset (blend file containing only the asset is ok) to the forum to make it available to all contestants.  
 * You should not change the rigs. Changes are allowed if the rig is broken or doesn't work as expected. If you do change the rig you are required to inform the community by posting your changes or informing the host of the contest. This is to give everyone the same chance and let others learn from your improvements. Please keep to the provided license!
 Again this is an animation challenge and not a rigging challenge.
 * You are allowed to rig the assets to support your animation, this includes using lattices or shapkeys to deform them. If you do we kindly ask you to post those changes to the forum. Please keep any licensing issues in mind!
